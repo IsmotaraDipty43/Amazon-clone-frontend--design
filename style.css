@@ -5,8 +5,8 @@
     border: border-box;
 }
 body{
-    max-width: 1920px;
-margin: 0 auto;
+    max-width: 1920;
+    margin: 0 auto;
 }
 .flex{
     display: flex;
@@ -108,7 +108,7 @@ font-weight: 700;
     height: 50px;
     color: white;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
  
 }
 .pannel-option{
